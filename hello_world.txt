@@ -1,3 +1,7 @@
 Hello world. 
 Let's learn how to do computers.
 I understand a little bit.
+I'm working through the git tutorial again, because I installed a new OS.
+I was using an old macOS on this Macbook, but it could no longer take updates.
+I finally decided to install linuxmint as the sole OS on the machine.
+I ran dual boot for a week or so, but with the old macOS, it was pointless.
